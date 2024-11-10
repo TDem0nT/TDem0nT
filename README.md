@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I've been learning Javascript and Python for 5 month
+I've been learning Javascript and Python
 
 * 🌍  I'm based in Bangkok, Thailand
 
