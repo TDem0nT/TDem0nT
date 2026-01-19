@@ -4,7 +4,7 @@
 Student
 -------
 
-I've been learning Javascript and Python
+# I've been learning Javascript and Python
 
 * 🌍  I'm based in Bangkok, Thailand
 
